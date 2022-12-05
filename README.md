@@ -11,7 +11,8 @@ PeRACE is an automatic Persian translation of the RACE dataset, which consists o
 |   |  train|   dev  | test   |   train  | dev | test  |
 | #questions    | 25,421 | 1,436  | 1,436  |  62,445 | 3,451 | 3,498  |
 
-PeRACE.zip file contains PeRACE-H and PeRACE-M, including train, dev, and test files. The data.csv files in each of them contain seven columns of information, including text, options [from 0 to 3], queries, and answers [A, B, C, or D]. An example from PeRACE-H/dev is below.
+PeRACE.zip file contains PeRACE-H and PeRACE-M, including train, dev, and test files. The data.csv files in each of them contain seven columns of information, including text, options [from 0 to 3], queries, and answers [A, B, C, or D]. Below is a sample from PeRACE-H/dev.
+
 
 |     text   | option 0| option1| option2 |  option3    |query |  ans |
 | ------------- | :---:|:---:|:---: | :---:|:---:|:---: |
