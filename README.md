@@ -11,6 +11,5 @@ PeRACE is an automatic Persian translation of the RACE dataset, which consists o
 |   |  train|   dev  | test   |   train  | dev | test  |
 | #questions    | 25,421 | 1,436  | 1,436  |  62,445 | 3,451 | 3,498  |
 
-Each data.csv file consists of seven columns including text, options[form 0 to 3], query and answer [A, B, C or D].
-
+Each data.csv file consists of seven columns, including text, options[from 0 to 3], query, and answer [A, B, C, or D].
 
