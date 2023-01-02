@@ -1,8 +1,8 @@
 # PeRACE-dataset
-Persian automatic translation of RACE dataset (multiple-choice machine reading comprehension dataset) using GNMT - trasnlated in **SBU NLP Lab**
+Persian automatic translation of RACE dataset (multiple-choice machine reading comprehension dataset) using GNMT - translated in **SBU NLP Lab**
 
 
-PeRACE is an automatic Persian translation of the RACE dataset using Google Neural Machine Translation. RACE dataset consists of RACE-M and RACE-H, PeRACE also consists of PeRACE-M and PeRACE-H, respectively; the statistics regarding PeRACE dataset are listed below.
+PeRACE is an automatic Persian translation of the RACE dataset using Google Neural Machine Translation. The RACE dataset consists of RACE-M and RACE-H, PeRACE also consists of PeRACE-M and PeRACE-H, respectively; the statistics regarding the PeRACE dataset are listed below.
 
 
 
